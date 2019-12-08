@@ -1,6 +1,3 @@
-function multiply(){
-  num1 = 2;
-  num2 = 31;
- let sixtyTwo =  num1 * num2;
- console.log(sixtyTwo);
-}
+var num1 = 2;
+var num2 = 31;
+const multiply = num1 * num2;
